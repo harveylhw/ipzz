@@ -19,7 +19,7 @@ wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/harv
 # Usage: setup iptables nat rules for domian/ip             #
 #                        万海云涛                            #
 # Author: Harvey                                            #
-# Github: https://github.com/harvey202210/-iptablesUtils    #
+# Github: https://github.com/harveylhw/ipzz                 #
 #############################################################
 
 你要做什么呢（请输入数字）？Ctrl+C 退出本脚本

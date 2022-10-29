@@ -9,7 +9,7 @@
 
 
 ```shell
-wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/harvey202210/-iptablesUtils/main/natcfg.sh && bash natcfg.sh
+wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/harveylhw/ipzz/main/natcfg.sh && bash natcfg.sh
 ```
 
 输出如下：
